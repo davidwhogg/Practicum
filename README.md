@@ -1,7 +1,7 @@
 # Practicum
 
-A course to introduce NYU Graduate School of Arts and Sciences to the
-research and practice of undergraduate teaching, and some content on
+A course to introduce students in the NYU Graduate School of Arts and Sciences to the
+research and practice of teaching physics to undergraduate students, plus some content on
 the responsible conduct of research.
 
 ## Author:
